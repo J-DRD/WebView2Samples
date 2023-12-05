@@ -2,6 +2,7 @@
   <PropertyGroup>
     <Platforms>AnyCPU</Platforms>
     <OutputType>WinExe</OutputType>
+    <EnableWindowsTargeting>true</EnableWindowsTargeting>
     <AssemblyName>WV2CDPExtensionWPFSample</AssemblyName>
     <TargetFrameworks>netcoreapp3.0;net462</TargetFrameworks>
     <Product>WebView2 CDP Extension WPF Sample App</Product>

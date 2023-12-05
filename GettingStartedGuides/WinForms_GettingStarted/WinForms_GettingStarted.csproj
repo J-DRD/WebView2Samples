@@ -6,6 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{02C8AF1B-D7D6-4C2E-9060-544DA388E0A9}</ProjectGuid>
     <OutputType>WinExe</OutputType>
+    <EnableWindowsTargeting>true</EnableWindowsTargeting>
     <RootNamespace>WinForms_GettingStarted</RootNamespace>
     <AssemblyName>WinForms_GettingStarted</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
